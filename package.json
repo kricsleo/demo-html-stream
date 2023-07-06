@@ -1,0 +1,15 @@
+{
+  "name": "demo-html-stream",
+  "version": "1.0.0",
+  "private": true,
+  "author": "kricsleo",
+  "description": "Demo for how html stream works.",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "start": "tsx watch ./src/index.ts"
+  },
+  "devDependencies": {
+    "tsx": "^3.12.7"
+  }
+}
